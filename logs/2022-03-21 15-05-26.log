@@ -1,0 +1,11 @@
+[INFO ] 2022-03-21 15:05:30.484 [main] Log4j - Appium Server Start Successfully
+[INFO ] 2022-03-21 15:05:31.472 [main] Log4j - Device Connected Successfully
+[INFO ] 2022-03-21 15:05:31.476 [main] Log4j - Application Installed Successfully
+[INFO ] 2022-03-21 15:06:07.429 [main] Log4j - Login Done successfully
+[INFO ] 2022-03-21 15:06:10.103 [main] Log4j - My tickets Open successfully
+[INFO ] 2022-03-21 15:06:31.088 [main] Log4j - Scroll till Element visible done successfully
+[INFO ] 2022-03-21 15:06:35.039 [main] Log4j - comment Added successfully
+[INFO ] 2022-03-21 15:06:40.484 [main] Log4j - My ticket Page Reloaded successfully
+[INFO ] 2022-03-21 15:06:58.995 [main] Log4j - comment visible in Comment List
+[INFO ] 2022-03-21 15:06:59.330 [main] Log4j - Validation of Add comment done successfully
+[INFO ] 2022-03-21 15:07:00.607 [main] Log4j - Appium Server Stop
